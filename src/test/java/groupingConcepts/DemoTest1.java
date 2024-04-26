@@ -12,6 +12,7 @@ public class DemoTest1 {
 	public void sample2() {
 		
 		System.out.println("sample 2");
+		System.out.println("Edited from github remote repository");
 	}
 
 }
