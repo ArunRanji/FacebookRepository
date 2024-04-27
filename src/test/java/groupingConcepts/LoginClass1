@@ -1,0 +1,10 @@
+package groupingConcepts;
+
+public class LoginClass1 {
+	
+	public static void main(String[] args) {
+		
+		System.out.println("This class is for merge conflicts - local repo");
+	}
+
+}
